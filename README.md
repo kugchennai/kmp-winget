@@ -48,7 +48,7 @@ To build an installable (.msi) package
 ```bash
   ./gradlew packageDistributionForCurrentOS
 ```
-or you can simply visit the [release]() page to get the latest build
+or you can simply visit the [release](https://github.com/kugchennai/kmp-winget/releases) page to get the latest build
 
 
 ## Features
@@ -62,15 +62,7 @@ or you can simply visit the [release]() page to get the latest build
 - Search and filter among the list of apps
 - Ability to upgrade an app to its available update
 - Ability to uninstall an app
-- Dialog Loader popup 
-
-## Roadmap
-
-- [ ] Bring support to linux with the help of apt commands
-- [x] Improvements to UI with dialog popup loader
-- [ ] Remove MS Store upgrades out of the upgrades list
-- [ ] Implement feature to be able to install apps available via winget
-- [ ] Do some packages list sanitation
+- Dialog Loader popup
 
 
 ## Tech Stack
@@ -81,3 +73,10 @@ or you can simply visit the [release]() page to get the latest build
 
 **Platform:** Windows 10/11
 
+## Contributors
+
+<a href="https://github.com/kugchennai/kmp-winget/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kugchennai/kmp-winget" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
